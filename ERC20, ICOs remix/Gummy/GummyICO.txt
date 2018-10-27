@@ -1,0 +1,4 @@
+URL = https://etherscan.io/address/0x25166ec66ae40029589dcca100e598f22fecc8bf
+Contract Address: 0x25166ec66ae40029589dcca100e598f22fecc8bf
+tokenOwner = 0x9d966aBcC94760dec6B556dBE6eB1196F58be4BB
+wallet = 0x9d966aBcC94760dec6B556dBE6eB1196F58be4BB

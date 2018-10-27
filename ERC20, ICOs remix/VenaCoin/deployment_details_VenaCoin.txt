@@ -1,0 +1,8 @@
+﻿owner address = 0xd2a60240df3133b48d23e358a09efa8eb8de91a0
+Main net Vena Coin deployed - 0xb12ff864749a8eef9a93246ae883bdf37e49a068 
+https://etherscan.io/address/0xb12ff864749a8eef9a93246ae883bdf37e49a068
+
+
+Main net crowdsale deployed - 0x7b51a4011d0d84047d87074dcb19aa1d4710af23
+https://etherscan.io/address/0x7b51a4011d0d84047d87074dcb19aa1d4710af23
+

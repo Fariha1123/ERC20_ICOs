@@ -1,0 +1,29 @@
+Information needed for the ERC20 Token:
+
+1.	Total Amount of tokens to be issued:   200,000,000
+2.	Name of the token:  NEO CLASSIC
+3.	Symbol (3 letters):    NOC
+4.	Where should be sent the tokens at the creation (owner�s addres or ICO contract):
+owners address 0x22F2104083cBBf80419Af62D80346296602FcdeD
+
+5.	Aditional requirements for the token (can be paused?, can be burned?):
+yes can be paused. No can't be brunt
+
+
+Information needed for the ICO:
+
+1.	Amount of tokens to sell: 150,000,000
+2.	Price (how many tokens for 1 ETH): 15,000 = 1 ETH
+
+3.	Duration of the ICO:  90 days 
+4.	Where to send the funds (owner or another address):  owners address
+5.	The funds will be sent after the ICO ends or must be forwarded inmediatly when recived to your address?:  
+
+fund will be forward immediately!!!
+to this address 0x0c4BdfE0aEbF69dE4975a957A2d4FE72633BBC1a
+
+
+6.	Any other requirements?: not really.
+
+
+
